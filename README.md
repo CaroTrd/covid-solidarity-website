@@ -1,3 +1,7 @@
+# Notice
+
+> Thanks for joining the Covid-Solidarity movement, we made this code opensource because our mission is to help as many people in the world as possible. We know that every place has a different culture, and that the solution has to be adaptable. Feel free to use this to spread solidarity around the world, and please don't forget to mention (or to use) Covid-Solidarity.org . If you have any questions, you can [info@covid-solidarity.org](info@covid-solidarity.org) --> ** spread solidarity, not the virus #HelpYourNeighbour 
+
 # Covid Landing Page
 
 > A website to help people that can't move the a shop to buy first necessity stuff.
